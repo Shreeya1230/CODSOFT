@@ -1,0 +1,1 @@
+This portfolio website highlights my journey as a B.Tech student specializing in Electronics and Computer Science with a focus on Artificial Intelligence, Machine Learning, and Cloud Computing.
