@@ -1,5 +1,8 @@
 # CODSOFT
 Repository containing my web development internship project
-1.TASK ONE : Build a portfolio
-2.TASK TWO : LANDING PAGE
-3.TASK THREE : CALCULATOR
+## Portfolio
+A personalized portfolio showcasing my background, skills, and work experiences. It's clean, responsive, and easy to navigate.
+## Landing Page
+A minimalist landing page design focused on clarity and user engagement. Built with basic HTML and CSS for simplicity.
+## Simple Calculator
+An easy-to-use calculator with basic arithmetic functions. Built using HTML, CSS, and JavaScript, perfect for beginners.
